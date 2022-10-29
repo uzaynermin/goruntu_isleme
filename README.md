@@ -13,6 +13,7 @@ cv2 kütüphanesi ile çizdirdiğim histogram
 
 
 
+
 GÖRÜNTÜNÜN TERSİNİN ALINMASI
 
 input olarak aldığım görselin siyah beyaz formatta imshow edilmiş hali:
